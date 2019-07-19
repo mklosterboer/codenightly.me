@@ -32,7 +32,7 @@ const Bio = () => {
     }
   `)
 
-  const { author } = data.site.siteMetadata
+  const { author, social } = data.site.siteMetadata
   return (
     <div
       style={{
@@ -57,6 +57,8 @@ const Bio = () => {
         Written by <strong>{author}</strong>
         <br />
         Husband, New Web Developer, Musician, Evocation Wizard
+        <br />
+        <a href={`https://twitter.com/${social.twitter}`}>Twitter</a> | <a href={`https://github.com/mklosterboer`}>Github</a>
       </p>
     </div>
   )
