@@ -1,6 +1,6 @@
 ---
 title: "Improvement"
-date: "2018-08-16T10:10:03.284Z"
+date: "2019-08-16T10:10:03.284Z"
 ---
 
 The last couple weeks have had a definite theme for me of improvement. My company hosted a guest speaker to discuss better control of one's life and how to make incremental improvements. I also have been debating with some career decisions and the necessary improvements I would have to make to pursue those. Happily, I had a week off in the ever-beautiful Hawaii to weigh these thoughts.
